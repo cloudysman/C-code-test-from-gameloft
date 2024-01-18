@@ -13,13 +13,11 @@ This program calculates the sum of the two smallest numbers in a given integer a
 1. Compile the program:
 g++ -o sum_of_two_smallest sum_of_two_smallest.cpp
 
-css
-Copy code
+
 2. Execute the program and follow the prompts to input array elements:
 ./sum_of_two_smallest
 
-css
-Copy code
+
 
 ## Sample Input/Output
 - Input:
